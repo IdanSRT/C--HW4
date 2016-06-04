@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace B16Ex04_Idanshuraty_201580990_SagiGleizer
 {
-    class Program
+    class MainMenu
     {
-      
     }
 }
