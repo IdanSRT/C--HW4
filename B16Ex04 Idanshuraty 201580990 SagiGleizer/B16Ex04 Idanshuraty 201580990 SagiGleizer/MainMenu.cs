@@ -8,5 +8,6 @@ namespace B16Ex04_Idanshuraty_201580990_SagiGleizer
 {
     class MainMenu
     {
+
     }
 }
