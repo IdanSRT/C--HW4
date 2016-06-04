@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B16Ex04 Idanshuraty 201580990 SagiGleizer", "B16Ex04 Idanshuraty 201580990 SagiGleizer\B16Ex04 Idanshuraty 201580990 SagiGleizer.csproj", "{7B13449A-8DE5-46A2-A221-23628FAEE1EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.Menus.Interfaces", "B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Interfaces.csproj", "{7B13449A-8DE5-46A2-A221-23628FAEE1EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.Menus.Delegates", "Ex04.Menus.Delegates\Ex04.Menus.Delegates.csproj", "{48AD7CF3-2B23-4FF9-BD40-DF346F9D4CA2}"
 EndProject
