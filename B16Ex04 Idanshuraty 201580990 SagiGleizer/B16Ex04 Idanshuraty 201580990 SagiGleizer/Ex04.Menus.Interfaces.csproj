@@ -35,7 +35,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IClickable.cs" />
     <Compile Include="MainMenu.cs" />
+    <Compile Include="Menu.cs" />
     <Compile Include="Program.cs" />
   </ItemGroup>
   <ItemGroup>
