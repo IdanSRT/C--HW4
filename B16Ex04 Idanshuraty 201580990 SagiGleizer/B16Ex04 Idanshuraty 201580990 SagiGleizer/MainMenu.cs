@@ -4,45 +4,39 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace B16Ex04_Idanshuraty_201580990_SagiGleizer
+namespace Ex04.Menus.Interfaces
 {
     public class MainMenu
     {
-        private List<Menu> m_MenuItems;
-        private int m_CurrentLevel;
+        private readonly SubMenu r_MainMenuList;
 
-
-        public int CurrentLevel
+        // Constructor for MainMenu
+        public MainMenu()
         {
-            get { return m_CurrentLevel; }
-            set { m_CurrentLevel = value; }
+            this.r_MainMenuList = new SubMenu("Main Menu");
         }
-        
 
-        public List<Menu> MenuItems
+        // Getter for the MainMenu MenuItems 
+        public SubMenu MainMenuItems
         {
-            get { return m_MenuItems; }
-            set { m_MenuItems = value; }
+            get { return this.r_MainMenuList; }
         }
-        
+
+        // Adder to the MainMenu MenuItem 
+        public void AddItemToMainMenu(MenuItem i_MenuItemToAdd)
+        {
+            this.r_MainMenuList.AddMenuItem(i_MenuItemToAdd);
+            
+            // Checking if this is a new menu , so we change the "Back" to "Exit" since this is how each subMenu initalized
+            if (this.r_MainMenuList.MenuItemsList.Count == 2)
+            {
+                this.r_MainMenuList.MenuItemsList[0].Title = "Exit";
+            }
+        }
+
         public void Show()
         {
-            bool wantToQuit = false;
-            // Loop
-            while (!wantToQuit)
-            {
-                // 1. Show the current level
-
-                // 2. Asks the user to choose one of the items
-
-                // 3. Recieves the user's choice
-
-                // 4. Checks vlidation + shows attributed message when not valid
-
-                // 5.a Clears the screen and invokes Menu.OnClick()
-
-                //5.b Clears the screen and invokes Menu.OnClick(), and then shows to the current level
-            }
+            this.r_MainMenuList.DoWhenChosen();
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Test\bin\Debug\B16Ex04 Idanshuraty 201580990 SagiGleizer.dll
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Test\bin\Debug\B16Ex04 Idanshuraty 201580990 SagiGleizer.pdb
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojResolveAssemblyReference.cache
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace B16Ex04_Idanshuraty_201580990_SagiGleizer
+namespace Ex04.Menus.Interfaces
 {
-    class Program
+    public interface IAction
     {
-      
+        void Invoke();
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Sagi\Desktop\HW\B16 Ex04 SagiGleizer 305746588 IdanShuraty 201580990\B16Ex04 Idanshuraty 201580990 SagiGleizer\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
